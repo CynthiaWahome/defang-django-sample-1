@@ -10,6 +10,7 @@ services:
         # published: 8000 # uncomment for local dev
     environment:
       - DEBUG=False # set to "True" for local dev
+    domainname: cynthiawahome.buzz
     #deploy:
     #  resources:
     #    reservations:
